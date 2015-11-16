@@ -20,6 +20,7 @@ namespace GitHub
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "Hello World";
+            textBox2.Text = "Hello world 2";
         }
     }
 }
